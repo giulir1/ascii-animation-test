@@ -1,0 +1,135 @@
+START
+holaaaa
+END
+START
+Holaaaa
+END
+START
+HOlaaaa
+END
+START
+HOLaaaa%s
+END
+START
+HOLAaaa
+END
+START
+HOLAAaa
+END
+START
+HOLAAAa
+END
+START
+HOLAAAA -
+END
+START
+hOLAAAA --
+END
+START
+hoLAAAA ---
+END
+START
+holAAAA  ---
+END
+START
+holaAAA  ---
+END
+START
+holaaAA   ---
+END
+START
+holaaaA    ---
+END
+START
+holaaaa     ---
+END
+START      
+holaaaa      ---
+END
+START
+Holaaaa       ---
+END
+START
+HOlaaaa        ---
+END
+START
+HOLaaaa         ---
+END
+START
+HOLAaaa          ---
+END
+START
+HOLAAaa           ---
+END
+START
+HOLAAAa            ---
+END
+START
+HOLAAAA             ---
+END
+START
+hOLAAAA              ---
+END
+START
+hoLAAAA               ---
+END
+START
+holAAAA                ---  |
+END
+START
+holaAAA                 --- |
+END
+START
+holaaAA                  ---|
+END
+START
+holaaaA                   --|
+END
+START
+holaaaa                    -|
+END
+START
+holaaaa                     |
+END
+START
+Holaaaa
+END
+START
+HOlaaaa
+END
+START
+HOLaaaa
+END
+START
+HOLAaaa
+END
+START
+HOLAAaa
+END
+START
+HOLAAAa
+END
+START
+HOLAAAA
+END
+START
+hOLAAAA
+END
+START
+hoLAAAA
+END
+START
+holAAAA
+END
+START
+holaAAA
+END
+START
+holaaAA
+END
+START
+holaaaA
+END
+START
+holaaaa
+END
